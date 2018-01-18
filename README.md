@@ -25,8 +25,8 @@ Cette application permet de cacher un texte dans une image et de le récupérer
 ---
 
 ## Installation:
-- Cloner le projet;
-- Exécuter le projet autant qu'une application Java;
+- Cloner le projet
+- Exécuter le projet autant qu'une application Java
 
 ---
 
